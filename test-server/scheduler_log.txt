@@ -1,0 +1,458 @@
+2020-08-02 16:49:16 base.py[line:158] INFO Scheduler started
+2020-08-02 16:59:35 base.py[line:865] INFO Added job "run_case" to job store "default"
+2020-08-02 16:59:36 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 16:59:36 CST)" (scheduled at 2020-08-02 16:59:36+08:00)
+2020-08-02 16:59:36 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 16:59:38 CST)" executed successfully
+2020-08-02 16:59:38 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 16:59:38 CST)" (scheduled at 2020-08-02 16:59:38+08:00)
+2020-08-02 16:59:38 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 16:59:40 CST)" executed successfully
+2020-08-02 16:59:40 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 16:59:40 CST)" (scheduled at 2020-08-02 16:59:40+08:00)
+2020-08-02 16:59:40 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 16:59:42 CST)" executed successfully
+2020-08-02 16:59:41 base.py[line:619] INFO Removed job scheduler_1
+2020-08-02 16:59:52 base.py[line:865] INFO Added job "run_case" to job store "default"
+2020-08-02 16:59:54 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 16:59:54 CST)" (scheduled at 2020-08-02 16:59:54+08:00)
+2020-08-02 16:59:54 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 16:59:56 CST)" executed successfully
+2020-08-02 16:59:56 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 16:59:56 CST)" (scheduled at 2020-08-02 16:59:56+08:00)
+2020-08-02 16:59:56 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 16:59:58 CST)" executed successfully
+2020-08-02 16:59:58 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 16:59:58 CST)" (scheduled at 2020-08-02 16:59:58+08:00)
+2020-08-02 16:59:58 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:00 CST)" executed successfully
+2020-08-02 17:00:00 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:00 CST)" (scheduled at 2020-08-02 17:00:00+08:00)
+2020-08-02 17:00:00 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:02 CST)" executed successfully
+2020-08-02 17:00:02 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:02 CST)" (scheduled at 2020-08-02 17:00:02+08:00)
+2020-08-02 17:00:02 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:04 CST)" executed successfully
+2020-08-02 17:00:04 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:04 CST)" (scheduled at 2020-08-02 17:00:04+08:00)
+2020-08-02 17:00:04 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:06 CST)" executed successfully
+2020-08-02 17:00:06 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:06 CST)" (scheduled at 2020-08-02 17:00:06+08:00)
+2020-08-02 17:00:06 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:08 CST)" executed successfully
+2020-08-02 17:00:08 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:10 CST)" (scheduled at 2020-08-02 17:00:08+08:00)
+2020-08-02 17:00:08 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:10 CST)" executed successfully
+2020-08-02 17:00:10 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:12 CST)" (scheduled at 2020-08-02 17:00:10+08:00)
+2020-08-02 17:00:10 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:12 CST)" executed successfully
+2020-08-02 17:00:10 base.py[line:619] INFO Removed job scheduler_1
+2020-08-02 17:00:54 base.py[line:865] INFO Added job "run_case" to job store "default"
+2020-08-02 17:00:56 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:58 CST)" (scheduled at 2020-08-02 17:00:56+08:00)
+2020-08-02 17:00:56 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:00:58 CST)" executed successfully
+2020-08-02 17:00:58 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:00 CST)" (scheduled at 2020-08-02 17:00:58+08:00)
+2020-08-02 17:00:58 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:00 CST)" executed successfully
+2020-08-02 17:01:00 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:02 CST)" (scheduled at 2020-08-02 17:01:00+08:00)
+2020-08-02 17:01:00 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:02 CST)" executed successfully
+2020-08-02 17:01:02 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:04 CST)" (scheduled at 2020-08-02 17:01:02+08:00)
+2020-08-02 17:01:02 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:04 CST)" executed successfully
+2020-08-02 17:01:04 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:06 CST)" (scheduled at 2020-08-02 17:01:04+08:00)
+2020-08-02 17:01:04 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:06 CST)" executed successfully
+2020-08-02 17:01:06 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:08 CST)" (scheduled at 2020-08-02 17:01:06+08:00)
+2020-08-02 17:01:06 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:08 CST)" executed successfully
+2020-08-02 17:01:08 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:10 CST)" (scheduled at 2020-08-02 17:01:08+08:00)
+2020-08-02 17:01:08 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:10 CST)" executed successfully
+2020-08-02 17:01:10 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:12 CST)" (scheduled at 2020-08-02 17:01:10+08:00)
+2020-08-02 17:01:10 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:12 CST)" executed successfully
+2020-08-02 17:01:12 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:14 CST)" (scheduled at 2020-08-02 17:01:12+08:00)
+2020-08-02 17:01:12 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:01:14 CST)" executed successfully
+2020-08-02 17:01:12 base.py[line:619] INFO Removed job scheduler_1
+2020-08-02 17:01:47 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\apitest\urls.py changed, reloading.
+2020-08-02 17:01:49 base.py[line:158] INFO Scheduler started
+2020-08-02 17:02:28 base.py[line:865] INFO Added job "run_case" to job store "default"
+2020-08-02 17:02:30 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:02:30 CST)" (scheduled at 2020-08-02 17:02:30+08:00)
+2020-08-02 17:02:30 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:02:32 CST)" executed successfully
+2020-08-02 17:02:32 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:02:32 CST)" (scheduled at 2020-08-02 17:02:32+08:00)
+2020-08-02 17:02:32 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:02:34 CST)" executed successfully
+2020-08-02 17:02:34 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:02:34 CST)" (scheduled at 2020-08-02 17:02:34+08:00)
+2020-08-02 17:02:34 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:02:36 CST)" executed successfully
+2020-08-02 17:02:36 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:02:36 CST)" (scheduled at 2020-08-02 17:02:36+08:00)
+2020-08-02 17:02:36 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:02:38 CST)" executed successfully
+2020-08-02 17:02:38 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:02:38 CST)" (scheduled at 2020-08-02 17:02:38+08:00)
+2020-08-02 17:02:38 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:02:40 CST)" executed successfully
+2020-08-02 17:02:39 base.py[line:619] INFO Removed job scheduler_1
+2020-08-02 17:03:20 base.py[line:865] INFO Added job "run_case" to job store "default"
+2020-08-02 17:03:22 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:22 CST)" (scheduled at 2020-08-02 17:03:22+08:00)
+2020-08-02 17:03:22 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:24 CST)" executed successfully
+2020-08-02 17:03:24 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:24 CST)" (scheduled at 2020-08-02 17:03:24+08:00)
+2020-08-02 17:03:24 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:26 CST)" executed successfully
+2020-08-02 17:03:24 base.py[line:619] INFO Removed job scheduler_1
+2020-08-02 17:03:27 base.py[line:865] INFO Added job "run_case" to job store "default"
+2020-08-02 17:03:28 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:28 CST)" (scheduled at 2020-08-02 17:03:28+08:00)
+2020-08-02 17:03:28 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:30 CST)" executed successfully
+2020-08-02 17:03:30 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:30 CST)" (scheduled at 2020-08-02 17:03:30+08:00)
+2020-08-02 17:03:30 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:32 CST)" executed successfully
+2020-08-02 17:03:32 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:32 CST)" (scheduled at 2020-08-02 17:03:32+08:00)
+2020-08-02 17:03:32 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:34 CST)" executed successfully
+2020-08-02 17:03:34 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:36 CST)" (scheduled at 2020-08-02 17:03:34+08:00)
+2020-08-02 17:03:34 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:36 CST)" executed successfully
+2020-08-02 17:03:35 base.py[line:619] INFO Removed job scheduler_1
+2020-08-02 17:03:39 base.py[line:865] INFO Added job "run_case" to job store "default"
+2020-08-02 17:03:40 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:42 CST)" (scheduled at 2020-08-02 17:03:40+08:00)
+2020-08-02 17:03:40 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:42 CST)" executed successfully
+2020-08-02 17:03:42 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:44 CST)" (scheduled at 2020-08-02 17:03:42+08:00)
+2020-08-02 17:03:42 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:44 CST)" executed successfully
+2020-08-02 17:03:44 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:46 CST)" (scheduled at 2020-08-02 17:03:44+08:00)
+2020-08-02 17:03:44 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:46 CST)" executed successfully
+2020-08-02 17:03:46 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:48 CST)" (scheduled at 2020-08-02 17:03:46+08:00)
+2020-08-02 17:03:46 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:48 CST)" executed successfully
+2020-08-02 17:03:48 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:50 CST)" (scheduled at 2020-08-02 17:03:48+08:00)
+2020-08-02 17:03:48 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:03:50 CST)" executed successfully
+2020-08-02 17:03:49 base.py[line:619] INFO Removed job scheduler_1
+2020-08-02 17:05:32 base.py[line:865] INFO Added job "run_case" to job store "default"
+2020-08-02 17:05:34 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:36 CST)" (scheduled at 2020-08-02 17:05:34+08:00)
+2020-08-02 17:05:34 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:36 CST)" executed successfully
+2020-08-02 17:05:36 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:38 CST)" (scheduled at 2020-08-02 17:05:36+08:00)
+2020-08-02 17:05:36 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:38 CST)" executed successfully
+2020-08-02 17:05:38 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:40 CST)" (scheduled at 2020-08-02 17:05:38+08:00)
+2020-08-02 17:05:38 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:40 CST)" executed successfully
+2020-08-02 17:05:40 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:42 CST)" (scheduled at 2020-08-02 17:05:40+08:00)
+2020-08-02 17:05:40 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:42 CST)" executed successfully
+2020-08-02 17:05:42 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:44 CST)" (scheduled at 2020-08-02 17:05:42+08:00)
+2020-08-02 17:05:42 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:44 CST)" executed successfully
+2020-08-02 17:05:44 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:46 CST)" (scheduled at 2020-08-02 17:05:44+08:00)
+2020-08-02 17:05:44 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:46 CST)" executed successfully
+2020-08-02 17:05:46 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:48 CST)" (scheduled at 2020-08-02 17:05:46+08:00)
+2020-08-02 17:05:46 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:48 CST)" executed successfully
+2020-08-02 17:05:48 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:50 CST)" (scheduled at 2020-08-02 17:05:48+08:00)
+2020-08-02 17:05:48 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:50 CST)" executed successfully
+2020-08-02 17:05:50 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:52 CST)" (scheduled at 2020-08-02 17:05:50+08:00)
+2020-08-02 17:05:50 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:52 CST)" executed successfully
+2020-08-02 17:05:52 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:54 CST)" (scheduled at 2020-08-02 17:05:52+08:00)
+2020-08-02 17:05:52 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:54 CST)" executed successfully
+2020-08-02 17:05:54 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:56 CST)" (scheduled at 2020-08-02 17:05:54+08:00)
+2020-08-02 17:05:54 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:56 CST)" executed successfully
+2020-08-02 17:05:56 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:58 CST)" (scheduled at 2020-08-02 17:05:56+08:00)
+2020-08-02 17:05:56 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:05:58 CST)" executed successfully
+2020-08-02 17:05:58 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:06:00 CST)" (scheduled at 2020-08-02 17:05:58+08:00)
+2020-08-02 17:05:58 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:06:00 CST)" executed successfully
+2020-08-02 17:06:00 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:06:02 CST)" (scheduled at 2020-08-02 17:06:00+08:00)
+2020-08-02 17:06:00 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:06:02 CST)" executed successfully
+2020-08-02 17:06:02 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:06:04 CST)" (scheduled at 2020-08-02 17:06:02+08:00)
+2020-08-02 17:06:02 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:06:04 CST)" executed successfully
+2020-08-02 17:06:04 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:06:06 CST)" (scheduled at 2020-08-02 17:06:04+08:00)
+2020-08-02 17:06:04 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:06:06 CST)" executed successfully
+2020-08-02 17:06:06 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:06:08 CST)" (scheduled at 2020-08-02 17:06:06+08:00)
+2020-08-02 17:06:06 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:06:08 CST)" executed successfully
+2020-08-02 17:06:07 base.py[line:619] INFO Removed job scheduler_1
+2020-08-02 17:06:39 base.py[line:865] INFO Added job "run_case" to job store "default"
+2020-08-02 17:06:40 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:06:42 CST)" (scheduled at 2020-08-02 17:06:40+08:00)
+2020-08-02 17:06:40 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:06:42 CST)" executed successfully
+2020-08-02 17:06:40 base.py[line:619] INFO Removed job scheduler_1
+2020-08-02 17:06:50 base.py[line:865] INFO Added job "run_case" to job store "default"
+2020-08-02 17:06:52 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:06:54 CST)" (scheduled at 2020-08-02 17:06:52+08:00)
+2020-08-02 17:06:52 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/2'], next run at: 2020-08-02 17:06:54 CST)" executed successfully
+2020-08-02 17:06:52 base.py[line:619] INFO Removed job scheduler_1
+2020-08-02 17:07:05 base.py[line:865] INFO Added job "run_case" to job store "default"
+2020-08-02 17:07:06 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-02 17:07:09 CST)" (scheduled at 2020-08-02 17:07:06+08:00)
+2020-08-02 17:07:06 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-02 17:07:09 CST)" executed successfully
+2020-08-02 17:07:09 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-02 17:07:12 CST)" (scheduled at 2020-08-02 17:07:09+08:00)
+2020-08-02 17:07:09 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-02 17:07:12 CST)" executed successfully
+2020-08-02 17:07:12 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-02 17:07:15 CST)" (scheduled at 2020-08-02 17:07:12+08:00)
+2020-08-02 17:07:12 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-02 17:07:15 CST)" executed successfully
+2020-08-02 17:07:15 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-02 17:07:18 CST)" (scheduled at 2020-08-02 17:07:15+08:00)
+2020-08-02 17:07:15 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-02 17:07:18 CST)" executed successfully
+2020-08-02 17:07:18 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-02 17:07:21 CST)" (scheduled at 2020-08-02 17:07:18+08:00)
+2020-08-02 17:07:18 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-02 17:07:21 CST)" executed successfully
+2020-08-02 17:07:21 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-02 17:07:24 CST)" (scheduled at 2020-08-02 17:07:21+08:00)
+2020-08-02 17:07:21 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-02 17:07:24 CST)" executed successfully
+2020-08-02 17:07:24 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-02 17:07:27 CST)" (scheduled at 2020-08-02 17:07:24+08:00)
+2020-08-02 17:07:24 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-02 17:07:27 CST)" executed successfully
+2020-08-02 17:07:24 base.py[line:619] INFO Removed job scheduler_1
+2020-08-07 15:33:08 base.py[line:166] INFO Scheduler started
+2020-08-07 15:40:44 base.py[line:881] INFO Added job "run_case" to job store "default"
+2020-08-07 15:40:45 base.py[line:123] INFO Running job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-07 15:40:45 CST)" (scheduled at 2020-08-07 15:40:45+08:00)
+2020-08-07 15:40:45 base.py[line:144] INFO Job "run_case (trigger: cron[second='*/3'], next run at: 2020-08-07 15:40:48 CST)" executed successfully
+2020-08-07 15:40:47 base.py[line:627] INFO Removed job scheduler_1
+2020-08-07 20:00:14 base.py[line:166] INFO Scheduler started
+2020-08-07 20:06:50 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\jcauth\views.py changed, reloading.
+2020-08-07 20:06:53 base.py[line:166] INFO Scheduler started
+2020-08-07 20:08:11 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\jcauth\views.py changed, reloading.
+2020-08-07 20:08:13 base.py[line:166] INFO Scheduler started
+2020-08-07 20:10:43 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\jcauth\views.py changed, reloading.
+2020-08-07 20:10:44 base.py[line:166] INFO Scheduler started
+2020-08-07 20:35:37 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\jcauth\views.py changed, reloading.
+2020-08-07 20:35:39 base.py[line:166] INFO Scheduler started
+2020-08-07 20:35:57 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\jcauth\views.py changed, reloading.
+2020-08-07 20:35:59 base.py[line:166] INFO Scheduler started
+2020-08-07 20:36:14 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\jcauth\views.py changed, reloading.
+2020-08-07 20:36:16 base.py[line:166] INFO Scheduler started
+2020-08-07 20:37:51 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\jcauth\views.py changed, reloading.
+2020-08-07 20:37:52 base.py[line:166] INFO Scheduler started
+2020-08-07 20:39:10 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\jcauth\views.py changed, reloading.
+2020-08-07 20:39:11 base.py[line:166] INFO Scheduler started
+2020-08-07 20:42:22 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\jcauth\views.py changed, reloading.
+2020-08-07 20:42:23 base.py[line:166] INFO Scheduler started
+2020-08-07 20:42:58 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\jcauth\views.py changed, reloading.
+2020-08-07 20:43:00 base.py[line:166] INFO Scheduler started
+2020-08-07 20:43:32 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\jcauth\views.py changed, reloading.
+2020-08-07 20:43:34 base.py[line:166] INFO Scheduler started
+2020-08-07 20:44:03 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\jcauth\views.py changed, reloading.
+2020-08-07 20:44:05 base.py[line:166] INFO Scheduler started
+2020-08-07 21:16:37 log.py[line:228] ERROR Internal Server Error: /project/1
+Traceback (most recent call last):
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jws.py", line 180, in _load
+    signing_input, crypto_segment = jwt.rsplit(b'.', 1)
+ValueError: not enough values to unpack (expected 2, got 1)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 485, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 402, in initial
+    self.perform_authentication(request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 324, in perform_authentication
+    request.user
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\request.py", line 220, in user
+    self._authenticate()
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\request.py", line 373, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "D:\python\cspt\test_server\apps\jcauth\authorizations.py", line 42, in authenticate
+    jwt_info = jwt.decode(jwt_token,settings.SECRET_KEY)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jws.py", line 183, in _load
+    raise DecodeError('Not enough segments')
+jwt.exceptions.DecodeError: Not enough segments
+2020-08-07 21:26:55 log.py[line:228] ERROR Internal Server Error: /project/{{project_id}}
+Traceback (most recent call last):
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jws.py", line 180, in _load
+    signing_input, crypto_segment = jwt.rsplit(b'.', 1)
+ValueError: not enough values to unpack (expected 2, got 1)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 485, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 402, in initial
+    self.perform_authentication(request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 324, in perform_authentication
+    request.user
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\request.py", line 220, in user
+    self._authenticate()
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\request.py", line 373, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "D:\python\cspt\test_server\apps\jcauth\authorizations.py", line 42, in authenticate
+    jwt_info = jwt.decode(jwt_token,settings.SECRET_KEY)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jws.py", line 183, in _load
+    raise DecodeError('Not enough segments')
+jwt.exceptions.DecodeError: Not enough segments
+2020-08-07 21:27:24 log.py[line:228] ERROR Internal Server Error: /project/1
+Traceback (most recent call last):
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jws.py", line 180, in _load
+    signing_input, crypto_segment = jwt.rsplit(b'.', 1)
+ValueError: not enough values to unpack (expected 2, got 1)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 485, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 402, in initial
+    self.perform_authentication(request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 324, in perform_authentication
+    request.user
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\request.py", line 220, in user
+    self._authenticate()
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\request.py", line 373, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "D:\python\cspt\test_server\apps\jcauth\authorizations.py", line 42, in authenticate
+    jwt_info = jwt.decode(jwt_token,settings.SECRET_KEY)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jws.py", line 183, in _load
+    raise DecodeError('Not enough segments')
+jwt.exceptions.DecodeError: Not enough segments
+2020-08-07 21:42:08 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\apitest\models.py changed, reloading.
+2020-08-07 21:42:10 base.py[line:166] INFO Scheduler started
+2020-08-07 21:49:34 autoreload.py[line:213] INFO D:\python\cspt\test_server\apps\apitest\models.py changed, reloading.
+2020-08-07 21:49:36 base.py[line:166] INFO Scheduler started
+2020-08-09 19:50:22 base.py[line:166] INFO Scheduler started
+2020-08-09 19:51:16 log.py[line:228] ERROR Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\renderers.py", line 724, in render
+    template = loader.get_template(self.template)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+2020-08-09 19:51:17 log.py[line:228] WARNING Not Found: /favicon.ico
+2020-08-09 19:52:21 log.py[line:228] WARNING Forbidden: /auth/user
+2020-08-09 19:54:01 log.py[line:228] ERROR Internal Server Error: /project/{{project_id}}
+Traceback (most recent call last):
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jws.py", line 180, in _load
+    signing_input, crypto_segment = jwt.rsplit(b'.', 1)
+ValueError: not enough values to unpack (expected 2, got 1)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 485, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 402, in initial
+    self.perform_authentication(request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 324, in perform_authentication
+    request.user
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\request.py", line 220, in user
+    self._authenticate()
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\request.py", line 373, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "D:\python\cspt\test_server\apps\jcauth\authorizations.py", line 42, in authenticate
+    jwt_info = jwt.decode(jwt_token,settings.SECRET_KEY)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jws.py", line 183, in _load
+    raise DecodeError('Not enough segments')
+jwt.exceptions.DecodeError: Not enough segments
+2020-08-09 19:54:15 log.py[line:228] ERROR Internal Server Error: /project/1
+Traceback (most recent call last):
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jws.py", line 180, in _load
+    signing_input, crypto_segment = jwt.rsplit(b'.', 1)
+ValueError: not enough values to unpack (expected 2, got 1)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 485, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 402, in initial
+    self.perform_authentication(request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 324, in perform_authentication
+    request.user
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\request.py", line 220, in user
+    self._authenticate()
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\request.py", line 373, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "D:\python\cspt\test_server\apps\jcauth\authorizations.py", line 42, in authenticate
+    jwt_info = jwt.decode(jwt_token,settings.SECRET_KEY)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jws.py", line 183, in _load
+    raise DecodeError('Not enough segments')
+jwt.exceptions.DecodeError: Not enough segments
+2020-08-09 19:54:22 log.py[line:228] ERROR Internal Server Error: /project/project_id
+Traceback (most recent call last):
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jws.py", line 180, in _load
+    signing_input, crypto_segment = jwt.rsplit(b'.', 1)
+ValueError: not enough values to unpack (expected 2, got 1)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 457, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 468, in raise_uncaught_exception
+    raise exc
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 485, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 402, in initial
+    self.perform_authentication(request)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\views.py", line 324, in perform_authentication
+    request.user
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\request.py", line 220, in user
+    self._authenticate()
+  File "D:\python\cspt\test_server\venv\lib\site-packages\rest_framework\request.py", line 373, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+  File "D:\python\cspt\test_server\apps\jcauth\authorizations.py", line 42, in authenticate
+    jwt_info = jwt.decode(jwt_token,settings.SECRET_KEY)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "D:\python\cspt\test_server\venv\lib\site-packages\jwt\api_jws.py", line 183, in _load
+    raise DecodeError('Not enough segments')
+jwt.exceptions.DecodeError: Not enough segments
+2020-08-09 20:10:33 base.py[line:166] INFO Scheduler started
