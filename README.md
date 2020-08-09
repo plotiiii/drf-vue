@@ -19,3 +19,15 @@ npm install
 
 npm run server
 
+登录
+https://raw.githubusercontent.com/plotiiii/drf-vue/master/test-server/%E6%B5%8B%E8%AF%95%E5%B9%B3%E5%8F%B0%E5%9B%BE%E7%89%87/1596975106(1).jpg
+
+首页
+
+项目hotst
+
+项目api
+
+项目用例
+
+记录
