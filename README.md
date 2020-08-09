@@ -1,7 +1,7 @@
 # drf-vue
 django+vue的测试平台
 python manage.py collectstatic
-复制xadmin静态文件
+复制静态文件
 
 python manage.py makemigrations
 激活模型
@@ -12,6 +12,7 @@ python manage.py migrate
 python manage.py createsuperuser
 创建超级管理员账号
 
+python manage.py runserver
 
 前端
 npm install
